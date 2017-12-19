@@ -28,8 +28,9 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    public void pildid(View View, String packageContext) {
-        Intent intent = new Intent(packageContext: MainActivity.this, pildidActivity.class);
+
+    public void Pilt(View view) {
+        Intent intent = new Intent( MainActivity.this, pildidActivity.class);
         startActivity(intent);
     }
 }

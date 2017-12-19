@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TutvustavaApp.iml" filepath="$PROJECT_DIR$/TutvustavaApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/teine.iml" filepath="$PROJECT_DIR$/teine.iml" />
+      <module fileurl="file://C:\Users\opilane\AndroidStudioProjects\TutvustavaApp\teine.iml" filepath="C:\Users\opilane\AndroidStudioProjects\TutvustavaApp\teine.iml" />
     </modules>
   </component>
 </project>
